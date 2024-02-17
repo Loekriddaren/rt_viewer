@@ -1,0 +1,25 @@
+# ninja log v5
+544	1462	7298983447634795	glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	6b13d74bd13479be
+58	465	7298983437791126	glfw/src/CMakeFiles/glfw.dir/init.c.obj	5b894202941168b9
+42	841	7298983441531118	CMakeFiles/rt_viewer.dir/external/imgui/imgui_draw.cpp.obj	64721c0ba58785c4
+515	1149	7298983444572984	glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	5d9cc3b04d4f88e3
+3500	4176	7298983473249482	rt_viewer.exe	867ea48f7745bb6f
+81	514	7298983438239923	glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	44a5ae67aba8edd4
+53	526	7298983438319713	glfw/src/CMakeFiles/glfw.dir/context.c.obj	82171744b0107323
+526	1341	7298983446527754	glfw/src/CMakeFiles/glfw.dir/win32_tls.c.obj	c4220929d7cfe43
+64	722	7298983440364251	glfw/src/CMakeFiles/glfw.dir/input.c.obj	5786faf6dde7a4a
+75	544	7298983438429428	glfw/src/CMakeFiles/glfw.dir/window.c.obj	3917587facbbc56
+69	582	7298983438678748	glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	15ba64e42ce9e00
+48	1486	7298983447993834	CMakeFiles/rt_viewer.dir/external/imgui/imgui_impl_glfw_gl3.cpp.obj	4b0d75ed790bda01
+467	1309	7298983446029086	glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	ab368c56a769bf2c
+722	1556	7298983448711913	glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	ecc1f959ba5fe8e7
+582	1384	7298983446916712	glfw/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj	ddd8e4f08ad1fc00
+25	1479	7298983447894095	CMakeFiles/rt_viewer.dir/external/lodepng/lodepng.cpp.obj	3882f8ce8d578e7d
+1557	1754	7298983450686620	glfw/src/glfw3.lib	9c6d6aec2d0698d2
+15	1812	7298983451235155	CMakeFiles/rt_viewer.dir/src/rt_raytracing.cpp.obj	a2eb5f2ef1cf9b22
+6	1965	7298983452792046	CMakeFiles/rt_viewer.dir/src/main.cpp.obj	31b26aafa257008e
+20	2073	7298983453839243	CMakeFiles/rt_viewer.dir/external/glew/src/glew.c.obj	1a41688c41dec78c
+31	2180	7298983454939087	CMakeFiles/rt_viewer.dir/external/imgui/imgui.cpp.obj	b3a25a820f55afe2
+37	3500	7298983468129045	CMakeFiles/rt_viewer.dir/external/imgui/imgui_demo.cpp.obj	cbe6a8cc6ebe1553
+4	829	7298985197477924	CMakeFiles/rt_viewer.dir/src/main.cpp.obj	31b26aafa257008e
+830	1126	7298985198916303	rt_viewer.exe	867ea48f7745bb6f

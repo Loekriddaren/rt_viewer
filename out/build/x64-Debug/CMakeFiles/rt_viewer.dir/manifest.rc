@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Brukare/Desktop/rt_viewer/out/build/x64-Debug/CMakeFiles/rt_viewer.dir/embed.manifest"
